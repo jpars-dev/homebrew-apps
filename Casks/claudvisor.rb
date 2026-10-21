@@ -1,6 +1,6 @@
 cask "claudvisor" do
-  version "0.1.4"
-  sha256 "ea9172ab548f0da53330c09d59ebe072a131ac0c8a498cec473d685aa0f14378"
+  version "0.1.5"
+  sha256 "591bb7990854a789722facaa1b0ae1233cbca92abf1895cb0d95300f463ece68"
 
   url "https://jpars.dev/apps/claudvisor/download/Claudvisor-#{version}.dmg"
   name "Claudvisor"

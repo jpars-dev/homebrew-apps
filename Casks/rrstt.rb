@@ -1,6 +1,6 @@
 cask "rrstt" do
-  version "0.2.1"
-  sha256 "9fe3b9f16fbe2bc14dff6cc070ce9b3889f4bf9dadf75843e0fa6ad3a4c08093"
+  version "0.2.2"
+  sha256 "bda3f21e8abf1083d38beafd69f6de5da57c994c9e0e978c2bddb0adb9a90e13"
 
   url "https://pggw.rrstt.app/storage/v1/object/public/downloads/cortex/cortex-#{version}-aarch64.dmg"
   name "RRSTT Cortex"

@@ -1,9 +1,9 @@
 cask "rrstt" do
-  version "0.2.5"
-  sha256 "bc95fb02e542df3c1f61ab5c34c9683ccb0f407ae78f0a6c2fbf47533fd271cb"
+  version "0.5.1"
+  sha256 "0f87ba18617218389d3b9f88e722ac29fecf195a7a07fdcd2b092889c0db3b34"
 
   url "https://rrstt.app/download/cortex-mac/#{version}"
-  name "RRSTT Cortex"
+  name "RRSTT"
   desc "Projects, tasks and time tracking, planned with Cortex"
   homepage "https://rrstt.app/"
 
@@ -18,7 +18,7 @@ cask "rrstt" do
   depends_on arch: :arm64
   depends_on :macos
 
-  app "RRSTT Cortex.app"
+  app "RRSTT.app"
 
   zap trash: [
     "~/Library/Application Support/com.rrstt.cortex",

@@ -1,6 +1,6 @@
 cask "rrstt" do
-  version "0.5.35"
-  sha256 "be091601cc19d1a3562a1676ea2012102172e7c72d348402e09d386ddfb8e7c3"
+  version "0.5.36"
+  sha256 "3b4938d5af96e03904f0f33b68a0dfabe7394ceadfc7b418e304130cd9f9d936"
 
   url "https://rrstt.app/download/cortex-mac/#{version}"
   name "RRSTT"
